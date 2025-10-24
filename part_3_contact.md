@@ -1,4 +1,4 @@
-[back](./index.md)
+[back](README.md)
 
 ### Место: Сырая пещера
 

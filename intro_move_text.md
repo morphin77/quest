@@ -1,4 +1,4 @@
-[Back](index.md)
+[Back](README.md)
 
 Уважаемый испытуемый,
 
